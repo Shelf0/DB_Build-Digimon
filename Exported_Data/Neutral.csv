@@ -1,0 +1,103 @@
+Attribute,Move,Description
+Neutral,Trick or Treat,"Physical attack, 100 Neutral damage to one foe. Decrease target's INT by 10%."
+Neutral,Heavy Strike III,"Physical attack, 110 Neutral damage to one foe. 95% accuracy."
+Neutral,Summon,Fixed damage of 100 to one foe. 30% chance of increasing INT by 10%.
+Neutral,Power Energy I,"Magic attack, 60 Neutral damage to one foe. 95% accuracy."
+Neutral,Heavy Strike I,"Physical attack, 70 Neutral damage to one foe. 95% accuracy."
+Neutral,Weltgeist,"Nullify all received damage until the next turn, and counterattacks when receiving physical or magic attacks."
+Neutral,Smile Warhead,"Physical attack, 130 Neutral damage to one foe. 50% chance to cause knockback."
+Neutral,Berserk Sword,Inflict Death on one enemy. 30% accuracy.
+Neutral,Winning Knuckle,"Physical attack, 115 Neutral damage to one foe. 20% chance of stunning target."
+Neutral,Power Energy III,"Magic attack, 100 Neutral damage to one foe. 95% accuracy."
+Neutral,Musical Fist,"INT-penetrating attack, Neutral damage to all with 10% chance of reducing ATK/INT by 10%."
+Neutral,Mach Rush I,"Physical attack, 35 Neutral damage to all foes. 95% accuracy."
+Neutral,Nightmare Syndrome,Reduce 15% HP from one enemy. 20% chance of putting target to sleep.
+Neutral,Mach Rush II,"Physical attack, 50 Neutral damage to all foes. 95% accuracy."
+Neutral,Mach Rush III,"Physical attack, 80 Neutral damage to all foes. 95% accuracy."
+Neutral,Physical Drain,"Physical attack, 50 Neutral damage to one foe. Absorb 10% SP."
+Neutral,Double Backhand,"2 physical attacks, 20 Neutral damage to all foes."
+Neutral,Garuru Tomahawk,"Physical attack, 140 Neutral damage to one foe. Always hits."
+Neutral,Power Energy II,"Magic attack, 80 Neutral damage to one foe. 95% accuracy."
+Neutral,Breath of the Gods,Nullifies any damage received until next turn.
+Neutral,Soul Digitalization,"Magic attack, 95 Neutral damage to all foes. 5% chance of instantly killing target."
+Neutral,Little Horn,"Physical attack, 70 Neutral damage to one foe. 10% chance of reducing target's DEF by 10%."
+Neutral,Trump Sword,"4 magic attacks, 35 Neutral damage to one foe."
+Neutral,Tomahawk Stinger,"Physical attack, 130 Neutral damage to one foe. 15% chance of confusing target."
+Neutral,Chaos Degradation,Reduces HP of all foes by 25%.
+Neutral,Ocean Love,Restore HP to all battle members and recover all status effects.
+Neutral,Strike Roll,"Physical attack, 140 Neutral damage to one foe. Tends to critical more often."
+Neutral,Justice Kick,"Physical attack, 130 Neutral damage to one foe. 1% chance of increasing ATK by 50%."
+Neutral,Judgement of the Blade,"5 physical attacks, 30 Neutral damage to one foe."
+Neutral,Biting Crush,"Physical attack, 145 Neutral damage to one foe. 15% chance of instantly killing target."
+Neutral,Waltz's End,"3 physical attacks, 30 Neutral damage to all foes."
+Neutral,Omni Sword,"Physical attack, 150 Neutral damage to one foe. 10% chance of dotting target."
+Neutral,Bantyo Blade,"Physical attack, 150 Neutral damage to one foe. Damage tends to fluctuate."
+Neutral,Pandora Dialogue,Reduces HP of all foes by 20%. Receive damage equal to 10% of HP from recoil.
+Neutral,Wolf Claw,"Physical attack, 120 Neutral damage to one foe."
+Neutral,Dead or Alive,"Magic attack, 110 Neutral damage to one foe. 10% to inflict a status effect, 5% chance of instantly killing target."
+Neutral,Chain Minus,Reduce COMBO for one enemy by 50%.
+Neutral,Hearts Attack,"INT-penetrating attack, Neutral damage to one foe. 20% chance of confusing target."
+Neutral,Chain Loss,Reduce COMBO for one enemy by 100%.
+Neutral,Revenge Flame,Counterattack the enemy when you receive a physical or magic attack.
+Neutral,Escape Dash,Flee from a battle.
+Neutral,Chain Max,Increase COMBO for one member by 100%.
+Neutral,Desolation Claw,"Physical attack, 115 Neutral damage to one foe. 10% chance of instantly killing target."
+Neutral,Heavy Strike II,"Physical attack, 90 Neutral damage to one foe. 95% accuracy."
+Neutral,Speed Break,Reduces SPD of one enemy by 10%.
+Neutral,Dispel,Remove basic debuffs from one party member and restore some HP.
+Neutral,Metal Cannon,"Physical attack, 70 Neutral damage to one foe. 30% chance of increasing DEF by 10%."
+Neutral,Attack Break,Reduces ATK of one enemy by 10%.
+Neutral,Attack Charge,Increases ATK of one member by 10%.
+Neutral,Attack Charge Field,Increases ATK of all battle members by 10%.
+Neutral,Mirror Reflection,Counterattacks the enemy when you receive a magic attack.
+Neutral,Cross-Counter,Counterattacks the enemy when you receive a physical attack.
+Neutral,Guard Charge,Increases DEF of one member by 10%.
+Neutral,Guard Charge Field,Increases DEF of all battle members by 10%.
+Neutral,Acceleration Boost,Doubles damage output in the next turn.
+Neutral,Symphony Crusher,"INT-penetrating attack, Neutral damage to one foe."
+Neutral,Speed Break Field,Reduces SPD of all enemies by 10%.
+Neutral,Veemon Headbutt,"Physical attack, 75 Neutral damage to one foe."
+Neutral,Mental Break Field,Reduces INT of all enemies by 10%.
+Neutral,Mental Break,Reduces INT of one enemy by 10%.
+Neutral,Scissor Claw,"DEF-penetrating attack, Neutral damage to one foe."
+Neutral,Guard Break Field,Reduces DEF of all enemies by 10%.
+Neutral,Guard Break,Reduces DEF of one enemy by 10%.
+Neutral,Chrono Breaker,Fixed damage of 150 to one foe. 30% chance of reducing target's SPD by 10%.
+Neutral,Mental Charge,Increases INT of one member by 10%.
+Neutral,Mental Charge Field,Increases INT of all battle members by 10%.
+Neutral,Speed Charge,Increases SPD of one member by 10%.
+Neutral,Speed Charge Field,Increases SPD of all battle members by 10%.
+Neutral,Hit Charge,Increases ACC of one battle member by 10%.
+Neutral,Spirit Drain,"Magic attack, 40 Neutral damage to one foe. Absorb 10% SP."
+Neutral,Attack Break Field,Reduces ATK of all enemies by 10%.
+Neutral,Agility Charge,Increases EVA of one battle member by 10%.
+Neutral,Dumdum Uppercut,"Physical attack, 90 Neutral damage to one foe. 10% chance of stunning target."
+Neutral,Critical Charge,Increases CRIT of one battle member by 10%.
+Neutral,Restore,Remove all status effects from one party member and restore some HP.
+Neutral,Lightning Paw,Fixed damage of 150 to one foe. 60% chance of confusing target.
+Neutral,Meteor Shower,"Physical attack, 40 Neutral damage to all foes. 90% accuracy. Tends to critical more often."
+Neutral,Safety Guard,Make one member endure all attacks that could kill you once.
+Neutral,Death Claw,Fixed damage of 200 to one foe. Absorbs 20% of the damage as HP.
+Neutral,Chain Plus,Increase COMBO for one member by 50%.
+Neutral,Final Aura,Restores a lot of HP for all party members.
+Neutral,Revive,Revive one fallen party member with 50% HP.
+Neutral,Razor Wind,"2-4 physical attacks, 30 Neutral damage to one foe."
+Neutral,Galactic Flare,"Magic attack, 55 Neutral damage to all foes."
+Neutral,Perfect Revival,Revive all fallen party members with full HP.
+Neutral,Final Heal,Restores a lot of HP for one party member.
+Neutral,Anti-Poison,Recover Poison from one party member and restore some HP.
+Neutral,Aura,Restores a little HP for all party members.
+Neutral,X-Aura,Restores HP for all party members.
+Neutral,Anti-Panic,Recover Panic from one party member and restore some HP.
+Neutral,Anti-Paralysis,Recover Paralyze from one party member and restore some HP.
+Neutral,Anti-Sleep,Recover Sleep from one party member and restore some HP.
+Neutral,Death Charm,Reduce 10% HP from one enemy.
+Neutral,Anti-Stun,Recover Stun from one party member and restore some HP.
+Neutral,Heal,Restores a little HP for one party member.
+Neutral,X-Heal,Restores HP for one party member.
+Neutral,Character Reversal,"Magic attack, 30 Neutral damage to one foe. Inflicts Bug status effect."
+Neutral,Anti-Dot,Recover Dot from one party member and restore some HP.
+Neutral,Anti-Bug,Recover Bug from one party member and restore some HP.
+Neutral,Power Metal,"Physical attack, 90 Neutral damage to one foe. 30% chance of increasing attack by 10%."
+Neutral,Status Barrier,Make one member immune to all status effects.
+Neutral,Double Scissor Claw,"DEF-penetrating attack, double Neutral damage to one foe."
