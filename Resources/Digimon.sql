@@ -5,7 +5,7 @@
 -- Dumped from database version 11.13
 -- Dumped by pg_dump version 13.3
 
--- Started on 2021-11-07 15:01:40
+-- Started on 2021-11-07 16:41:07
 
 SET statement_timeout = 0;
 SET lock_timeout = 0;
@@ -759,7 +759,7 @@ ALTER TABLE ONLY public."MOVES"
     ADD CONSTRAINT "MOVES_pkey" PRIMARY KEY ("NUMBER");
 
 
--- Completed on 2021-11-07 15:01:40
+-- Completed on 2021-11-07 16:41:07
 
 --
 -- PostgreSQL database dump complete
